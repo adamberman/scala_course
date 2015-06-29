@@ -1,0 +1,8 @@
+
+
+package greeter/**
+ * @author adamberman
+ */
+object Hello {
+  
+}
