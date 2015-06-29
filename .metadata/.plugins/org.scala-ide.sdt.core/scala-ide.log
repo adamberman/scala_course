@@ -15871,3 +15871,69 @@
 2015-06-28 20:49:23,497 ERROR [Framework stop] - System.err - at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:186)
 2015-06-28 20:49:23,497 ERROR [Framework stop] - System.err - at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:160)
 2015-06-28 20:49:23,497 ERROR [Framework stop] - System.err - at java.lang.Thread.run(Thread.java:745)
+2015-06-28 22:56:43,865  WARN [main] - ScalaProject - Project HelloWorld has platform default sourceLevel.
+2015-06-28 22:56:43,869  WARN [main] - ScalaProject - Project HelloWorld runs on platform default installation.
+2015-06-28 22:57:09,711  WARN [ModalContext] - ScalaProject - Project square_root has platform default sourceLevel.
+2015-06-28 22:57:09,713  WARN [ModalContext] - ScalaProject - Project square_root runs on platform default installation.
+2015-06-28 22:57:10,386  WARN [Worker-5] - ScalaProject - Project square_root has platform default sourceLevel.
+2015-06-28 22:57:10,387  WARN [Worker-5] - ScalaProject - Project square_root runs on platform default installation.
+2015-06-28 22:57:10,615  WARN [Worker-5] - ScalaProject - Project square_root has platform default sourceLevel.
+2015-06-28 22:57:10,615  WARN [Worker-5] - ScalaProject - Project square_root runs on platform default installation.
+2015-06-28 22:57:10,642  WARN [Worker-5] - ScalaProject - Project square_root has platform default sourceLevel.
+2015-06-28 22:57:10,642  WARN [Worker-5] - ScalaProject - Project square_root runs on platform default installation.
+2015-06-28 22:57:18,152  WARN [main] - ScalaProject - Project HelloWorld has platform default sourceLevel.
+2015-06-28 22:57:18,152  WARN [main] - ScalaProject - Project HelloWorld runs on platform default installation.
+2015-06-28 22:57:26,009  WARN [Text Viewer Hover Presenter] - ScalaProject - Project square_root has platform default sourceLevel.
+2015-06-28 22:57:26,010  WARN [Text Viewer Hover Presenter] - ScalaProject - Project square_root runs on platform default installation.
+2015-06-28 22:58:24,304  WARN [ModalContext] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:58:24,306  WARN [ModalContext] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:58:24,761  WARN [Worker-1] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:58:24,762  WARN [Worker-1] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:58:24,814  WARN [Worker-1] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:58:24,814  WARN [Worker-1] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:58:24,841  WARN [Worker-1] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:58:24,842  WARN [Worker-1] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:58:34,173  WARN [Worker-5] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:58:34,174  WARN [Worker-5] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:58:34,195  WARN [Worker-5] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:58:34,195  WARN [Worker-5] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:58:34,215  WARN [Worker-5] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:58:34,215  WARN [Worker-5] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:59:10,171  WARN [Worker-3] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:59:10,172  WARN [Worker-3] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:59:10,203  WARN [Worker-3] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:59:10,203  WARN [Worker-3] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:59:10,228  WARN [Worker-3] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:59:10,228  WARN [Worker-3] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:59:10,664  WARN [bundle-363-ActorSystem-akka.actor.default-dispatcher-5] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:59:10,664  WARN [bundle-363-ActorSystem-akka.actor.default-dispatcher-5] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:59:16,794  WARN [Worker-6] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:59:16,795  WARN [Worker-6] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:59:16,817  WARN [Worker-6] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:59:16,817  WARN [Worker-6] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:59:16,834  WARN [Worker-6] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:59:16,834  WARN [Worker-6] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:59:32,201  WARN [Worker-5] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:59:32,201  WARN [Worker-5] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:59:32,224  WARN [Worker-5] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:59:32,224  WARN [Worker-5] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:59:32,257  WARN [Worker-5] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:59:32,258  WARN [Worker-5] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:59:34,959  WARN [Worker-3] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:59:34,959  WARN [Worker-3] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:59:34,977  WARN [Worker-3] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:59:34,977  WARN [Worker-3] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 22:59:34,994  WARN [Worker-3] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 22:59:34,994  WARN [Worker-3] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 23:03:52,759  WARN [Worker-6] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 23:03:52,760  WARN [Worker-6] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 23:03:52,780  WARN [Worker-6] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 23:03:52,780  WARN [Worker-6] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 23:03:52,795  WARN [Worker-6] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 23:03:52,795  WARN [Worker-6] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 23:03:54,382  WARN [Worker-4] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 23:03:54,382  WARN [Worker-4] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 23:03:54,400  WARN [Worker-4] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 23:03:54,400  WARN [Worker-4] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-28 23:03:54,418  WARN [Worker-4] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-28 23:03:54,418  WARN [Worker-4] - ScalaProject - Project functional_programming runs on platform default installation.
