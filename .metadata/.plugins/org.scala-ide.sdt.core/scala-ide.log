@@ -15991,3 +15991,29 @@
 2015-06-29 23:09:18,329  WARN [Worker-16] - ScalaProject - Project functional_programming runs on platform default installation.
 2015-06-29 23:09:18,344  WARN [Worker-16] - ScalaProject - Project functional_programming has platform default sourceLevel.
 2015-06-29 23:09:18,345  WARN [Worker-16] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-29 23:10:07,322  WARN [Worker-22] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-29 23:10:07,323  WARN [Worker-22] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-29 23:10:07,372  WARN [Worker-22] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-29 23:10:07,372  WARN [Worker-22] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-29 23:10:07,428  WARN [Worker-22] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-29 23:10:07,429  WARN [Worker-22] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-29 23:12:55,386 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-29 23:12:55,387 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-29 23:12:55,388 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-29 23:12:55,388 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-29 23:12:55,393 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-29 23:13:32,752  WARN [Worker-21] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-29 23:13:32,753  WARN [Worker-21] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-29 23:13:32,785  WARN [Worker-21] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-29 23:13:32,785  WARN [Worker-21] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-29 23:13:32,804  WARN [Worker-21] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-29 23:13:32,805  WARN [Worker-21] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-29 23:13:33,092 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-29 23:13:33,093 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-29 23:13:33,093 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-06-29 23:13:34,928  WARN [Worker-21] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-29 23:13:34,928  WARN [Worker-21] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-29 23:13:34,943  WARN [Worker-21] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-29 23:13:34,943  WARN [Worker-21] - ScalaProject - Project functional_programming runs on platform default installation.
+2015-06-29 23:13:34,958  WARN [Worker-21] - ScalaProject - Project functional_programming has platform default sourceLevel.
+2015-06-29 23:13:34,958  WARN [Worker-21] - ScalaProject - Project functional_programming runs on platform default installation.
