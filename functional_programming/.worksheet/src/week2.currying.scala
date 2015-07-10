@@ -8,5 +8,9 @@ object currying {;import org.scalaide.worksheet.runtime.library.WorksheetSupport
   product(x => x * x)(3, 4);System.out.println("""res0: Int = """ + $show(res$0));$skip(51); 
   
   def factorial(n: Int) = product(x => x)(1, n);System.out.println("""factorial: (n: Int)Int""");$skip(15); val res$1 = 
-  factorial(5);System.out.println("""res1: Int = """ + $show(res$1))}
+  factorial(5);System.out.println("""res1: Int = """ + $show(res$1));$skip(174); 
+  
+  def mapReduce(f: Int => Int, combine: (Int, Int) => Int, zero: Int)(a: Int, b: Int): Int =
+  	if (a > b) zero
+  	else combine(f(a), mapReduce(f, combine, zero)(a+1, b));System.out.println("""mapReduce: (f: Int => Int, combine: (Int, Int) => Int, zero: Int)(a: Int, b: Int)Int""")}
 }
